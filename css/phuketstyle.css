@@ -1,4 +1,9 @@
 .jumbotron {
   text-align: center;
-  
+
+}
+.mycontainer {
+  padding-bottom:15px;
+  margin-right: auto;
+  margin-left: auto;
 }
